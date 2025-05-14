@@ -14,7 +14,11 @@ A simple, intellegent chatBot that can interact with users and provide assistanc
          -memory and recall
          -sentiment detection 
         
-The chatBot focuses mainly on Cyber Security
+The chatBot focuses mainly on Cyber Security about :
+      -phishing
+      -password safety
+      -scamming
+      -security
 
 ## Usage
 users can interact with the chatBot by:
