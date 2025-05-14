@@ -9,6 +9,10 @@ A simple, intellegent chatBot that can interact with users and provide assistanc
          - Voice greeting
          -ASCII Art
          -Colour font
+         -random responses
+         -keyword recognition
+         -memory and recall
+         -sentiment detection 
         
 The chatBot focuses mainly on Cyber Security
 
@@ -16,7 +20,9 @@ The chatBot focuses mainly on Cyber Security
 users can interact with the chatBot by:
    -entering their name to start the conversation
    -users can ask the chatBot questions related to CyberSecurity
-   users recieve feedback based on their input
+   - users recieve feedback based on their input
+   - user gets ask their favorite cybersecurity
+   - chatbot shows the conversation history at the end of the conversation 
 
 
 ## Installation
